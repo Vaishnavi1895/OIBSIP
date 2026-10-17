@@ -5,12 +5,19 @@ Welcome to my Java Development Internship Projects repository at Oasis Infobyte 
 This repository contains three Java projects developed as part of my learning and practical work in Java programming, Object-Oriented Programming (OOP), GUI development, and problem-solving.
 
 👩‍💻 Developer Information
+
 Name: Vaishnavi Satish Yadav
+
 Organization: Oasis Infobyte (OIBSIP)
+
 Domain: Java Development
+
 IDE: Eclipse IDE
+
 Programming Language: Java
+
 🚀 Projects
+
 🎮 Task 1: Number Guessing Game
 Project Overview
 
